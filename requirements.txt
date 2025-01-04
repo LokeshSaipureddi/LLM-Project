@@ -1,0 +1,7 @@
+docling
+streamlit 
+openai 
+langchain 
+chromadb
+duckduckgo_search 
+pytesseract
