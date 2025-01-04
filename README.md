@@ -1,4 +1,4 @@
-# Multi-Modal RAG for financial document processing
+# Multimodal RAG Platform: AI-Powered Financial Document Analysis and Querying
 
 Welcome to the **Financial Intelligence Platform**, a multi-modal Retrieval-Augmented Generation (RAG) application for analyzing financial documents and generating insights. This platform enables users to upload documents, perform advanced searches, and interact with an AI-powered chatbot that uses financial data to answer questions.
 
